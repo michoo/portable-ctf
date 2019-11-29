@@ -1,0 +1,121 @@
+body {
+  font-size: 12px;
+  color: white;
+  background-color: black;
+  font-family: monospace;
+}
+
+a {
+  color: #5cf442;
+  text-decoration: none;
+}
+
+@font-face {
+      font-family:"TopazPlus";
+      src: url(fonts/topazplus500.ttf);
+}
+
+body {
+  color: #DDDDDD;
+  background-color: black;
+  font-size: 16px;
+  line-height: 18px;
+  margin: 0 auto;
+  /*padding: 1em 0 1em 0;*/
+}
+
+pre {
+  font-family:"TopazPlus", "Lucida Console", monospace, Monaco;
+  /*background-color: black;*/
+  /*margin: 0 0 0px;*/
+  color: #DDDDDD;
+  /*border: 0px;*/
+  /*border-radius: 0px;*/
+  /*padding: 0px;*/
+
+}
+
+a {
+  color: #9f9fe7;
+  text-decoration: none;
+}
+
+.block {
+  width: 100%;
+  background-color: black;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+
+ik {
+  color: #87ffff;
+}
+
+y {
+  color: #f0c674;
+}
+
+gr {
+  color: #b5bd68;
+}
+
+r {
+  color: #9e0034;
+}
+
+w {
+  color: #ffffff;
+}
+
+pink {
+  color: #f4b6e5;
+}
+
+bb {
+  color: #5cc2ca;
+}
+
+purp {
+  color: #7a80a2;
+}
+
+l {
+  color: #c5c8c6;
+}
+
+lg {
+  color: #9de9a9;
+}
+
+sea {
+  color: #93ff4c;
+}
+
+uo {
+  color: #87ffff;
+}
+
+uy {
+  color: #5f5fd7;
+}
+
+ur {
+  color: #cccccc;
+}
+
+uw {
+  color: #ffffff;
+}
+
+ug {
+  color: #5f5f87;
+}
+
+ub {
+  color: #00d7d7;
+}
+
+xo {
+  color: #ffa3aa;
+}
